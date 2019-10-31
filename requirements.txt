@@ -14,7 +14,7 @@ pyasn1==0.4.3
 pyasn1-modules==0.2.1
 pycparser==2.18
 pyOpenSSL==18.0.0
-PyYAML==3.12
+PyYAML==5.1
 service-identity==17.0.0
 six==1.11.0
 transaction==2.2.1
